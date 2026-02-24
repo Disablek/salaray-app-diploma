@@ -12,25 +12,14 @@
             <option value="$PROJECT_DIR$/api-gateway" />
             <option value="$PROJECT_DIR$/service-registry" />
             <option value="$PROJECT_DIR$/user-service" />
+            <option value="$PROJECT_DIR$/user-service/adapter" />
+            <option value="$PROJECT_DIR$/user-service/application" />
+            <option value="$PROJECT_DIR$/user-service/bootstrap" />
+            <option value="$PROJECT_DIR$/user-service/domain" />
+            <option value="$PROJECT_DIR$/user-service/infrastructure" />
           </set>
         </option>
         <option name="resolveExternalAnnotations" value="true" />
-      </GradleProjectSettings>
-      <GradleProjectSettings>
-        <option name="externalProjectPath" value="$PROJECT_DIR$/user-service/adapter" />
-        <option name="gradleJvm" value="21" />
-      </GradleProjectSettings>
-      <GradleProjectSettings>
-        <option name="externalProjectPath" value="$PROJECT_DIR$/user-service/application" />
-        <option name="gradleJvm" value="21" />
-      </GradleProjectSettings>
-      <GradleProjectSettings>
-        <option name="externalProjectPath" value="$PROJECT_DIR$/user-service/bootstrap" />
-        <option name="gradleJvm" value="21" />
-      </GradleProjectSettings>
-      <GradleProjectSettings>
-        <option name="externalProjectPath" value="$PROJECT_DIR$/user-service/domain" />
-        <option name="gradleJvm" value="21" />
       </GradleProjectSettings>
     </option>
   </component>
